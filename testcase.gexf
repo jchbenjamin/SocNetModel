@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.1draft" version="1.1">
+<graph mode="static" defaultedgetype="undirected">
+<attributes class="node">
+	<attribute id="0" title="u0" type="float">
+		<default>0.0</default>
+	</attribute>
+	<attribute id="1" title="u1" type="float">
+		<default>0.0</default>
+	</attribute>
+	<attribute id="2" title="u2" type="float">
+		<default>0.0</default>
+	</attribute>
+	<attribute id="3" title="u3" type="float">
+		<default>0.0</default>
+	</attribute>
+	<attribute id="4" title="u4" type="float">
+		<default>0.0</default>
+	</attribute>
+</attributes>
+<nodes>
+	<node id="0" label="0" >
+	<attvalues>
+		<attvalue for="0" value="-0.958629" />
+		<attvalue for="1" value="-1.40866" />
+		<attvalue for="2" value="-2.47517" />
+		<attvalue for="3" value="1.01205" />
+		<attvalue for="4" value="-1.34174" />
+	</attvalues>
+	</node>
+	<node id="1" label="1" >
+	<attvalues>
+		<attvalue for="0" value="1.73458" />
+		<attvalue for="1" value="-0.347994" />
+		<attvalue for="2" value="0.0543618" />
+		<attvalue for="3" value="0.218417" />
+		<attvalue for="4" value="-0.837099" />
+	</attvalues>
+	</node>
+	<node id="2" label="2" >
+	<attvalues>
+		<attvalue for="0" value="-0.725742" />
+		<attvalue for="1" value="-0.334562" />
+		<attvalue for="2" value="-0.561447" />
+		<attvalue for="3" value="-1.05614" />
+		<attvalue for="4" value="1.9323" />
+	</attvalues>
+	</node>
+	<node id="3" label="3" >
+	<attvalues>
+		<attvalue for="0" value="1.21638" />
+		<attvalue for="1" value="1.9538" />
+		<attvalue for="2" value="-0.083001" />
+		<attvalue for="3" value="-0.552648" />
+		<attvalue for="4" value="-0.252842" />
+	</attvalues>
+	</node>
+	<node id="4" label="4" >
+	<attvalues>
+		<attvalue for="0" value="0.313777" />
+		<attvalue for="1" value="0.034417" />
+		<attvalue for="2" value="1.16767" />
+		<attvalue for="3" value="1.0315" />
+		<attvalue for="4" value="-0.0351179" />
+	</attvalues>
+	</node>
+	<node id="5" label="5" >
+	<attvalues>
+		<attvalue for="0" value="0.586437" />
+		<attvalue for="1" value="0.783561" />
+		<attvalue for="2" value="0.649445" />
+		<attvalue for="3" value="0.240571" />
+		<attvalue for="4" value="0.251527" />
+	</attvalues>
+	</node>
+	<node id="6" label="6" >
+	<attvalues>
+		<attvalue for="0" value="0.974406" />
+		<attvalue for="1" value="-0.373505" />
+		<attvalue for="2" value="-0.262054" />
+		<attvalue for="3" value="-0.678255" />
+		<attvalue for="4" value="0.696291" />
+	</attvalues>
+	</node>
+	<node id="7" label="7" >
+	<attvalues>
+		<attvalue for="0" value="0.738805" />
+		<attvalue for="1" value="1.12697" />
+		<attvalue for="2" value="1.5813" />
+		<attvalue for="3" value="-0.318204" />
+		<attvalue for="4" value="0.228296" />
+	</attvalues>
+	</node>
+	<node id="8" label="8" >
+	<attvalues>
+		<attvalue for="0" value="0.577106" />
+		<attvalue for="1" value="1.00997" />
+		<attvalue for="2" value="0.597759" />
+		<attvalue for="3" value="2.07808" />
+		<attvalue for="4" value="-1.63666" />
+	</attvalues>
+	</node>
+	<node id="9" label="9" >
+	<attvalues>
+		<attvalue for="0" value="1.137" />
+		<attvalue for="1" value="-1.48229" />
+		<attvalue for="2" value="-1.5776" />
+		<attvalue for="3" value="1.20934" />
+		<attvalue for="4" value="1.135" />
+	</attvalues>
+	</node>
+	<node id="10" label="10" >
+	<attvalues>
+		<attvalue for="0" value="-1.13997" />
+		<attvalue for="1" value="-1.44666" />
+		<attvalue for="2" value="-0.291934" />
+		<attvalue for="3" value="0.557528" />
+		<attvalue for="4" value="-1.0052" />
+	</attvalues>
+	</node>
+	<node id="11" label="11" >
+	<attvalues>
+		<attvalue for="0" value="0.0262784" />
+		<attvalue for="1" value="1.18236" />
+		<attvalue for="2" value="-1.58006" />
+		<attvalue for="3" value="-0.876846" />
+		<attvalue for="4" value="0.578523" />
+	</attvalues>
+	</node>
+	<node id="12" label="12" >
+	<attvalues>
+		<attvalue for="0" value="1.27236" />
+		<attvalue for="1" value="0.0886708" />
+		<attvalue for="2" value="0.384378" />
+		<attvalue for="3" value="-0.320618" />
+		<attvalue for="4" value="1.32316" />
+	</attvalues>
+	</node>
+	<node id="13" label="13" >
+	<attvalues>
+		<attvalue for="0" value="-1.62901" />
+		<attvalue for="1" value="-0.156848" />
+		<attvalue for="2" value="-1.5187" />
+		<attvalue for="3" value="-0.255655" />
+		<attvalue for="4" value="-0.517552" />
+	</attvalues>
+	</node>
+	<node id="14" label="14" >
+	<attvalues>
+		<attvalue for="0" value="-0.715534" />
+		<attvalue for="1" value="0.559901" />
+		<attvalue for="2" value="1.00503" />
+		<attvalue for="3" value="0.0796119" />
+		<attvalue for="4" value="-1.30218" />
+	</attvalues>
+	</node>
+	<node id="15" label="15" >
+	<attvalues>
+		<attvalue for="0" value="-0.101708" />
+		<attvalue for="1" value="-0.21363" />
+		<attvalue for="2" value="-1.13827" />
+		<attvalue for="3" value="-1.25506" />
+		<attvalue for="4" value="-0.697418" />
+	</attvalues>
+	</node>
+	<node id="16" label="16" >
+	<attvalues>
+		<attvalue for="0" value="-1.71063" />
+		<attvalue for="1" value="0.440298" />
+		<attvalue for="2" value="0.0506833" />
+		<attvalue for="3" value="-0.278784" />
+		<attvalue for="4" value="-0.275682" />
+	</attvalues>
+	</node>
+	<node id="17" label="17" >
+	<attvalues>
+		<attvalue for="0" value="-0.0678897" />
+		<attvalue for="1" value="-1.25533" />
+		<attvalue for="2" value="0.116721" />
+		<attvalue for="3" value="1.38467" />
+		<attvalue for="4" value="-1.82491" />
+	</attvalues>
+	</node>
+	<node id="18" label="18" >
+	<attvalues>
+		<attvalue for="0" value="1.58924" />
+		<attvalue for="1" value="0.280546" />
+		<attvalue for="2" value="1.1198" />
+		<attvalue for="3" value="-0.585431" />
+		<attvalue for="4" value="-0.124205" />
+	</attvalues>
+	</node>
+	<node id="19" label="19" >
+	<attvalues>
+		<attvalue for="0" value="-1.43174" />
+		<attvalue for="1" value="-0.389467" />
+		<attvalue for="2" value="-0.59316" />
+		<attvalue for="3" value="-0.302383" />
+		<attvalue for="4" value="-0.399196" />
+	</attvalues>
+	</node>
+	<node id="20" label="20" >
+	<attvalues>
+		<attvalue for="0" value="0.740569" />
+		<attvalue for="1" value="-0.264433" />
+		<attvalue for="2" value="0.507655" />
+		<attvalue for="3" value="1.10775" />
+		<attvalue for="4" value="0.233592" />
+	</attvalues>
+	</node>
+	<node id="21" label="21" >
+	<attvalues>
+		<attvalue for="0" value="-2.29999" />
+		<attvalue for="1" value="-0.768497" />
+		<attvalue for="2" value="-0.52205" />
+		<attvalue for="3" value="-1.23296" />
+		<attvalue for="4" value="-1.31834" />
+	</attvalues>
+	</node>
+	<node id="22" label="22" >
+	<attvalues>
+		<attvalue for="0" value="-0.12551" />
+		<attvalue for="1" value="-0.325509" />
+		<attvalue for="2" value="-0.669561" />
+		<attvalue for="3" value="-0.838346" />
+		<attvalue for="4" value="-0.376168" />
+	</attvalues>
+	</node>
+	<node id="23" label="23" >
+	<attvalues>
+		<attvalue for="0" value="-0.920365" />
+		<attvalue for="1" value="0.271302" />
+		<attvalue for="2" value="-0.297853" />
+		<attvalue for="3" value="-2.58751" />
+		<attvalue for="4" value="0.462248" />
+	</attvalues>
+	</node>
+	<node id="24" label="24" >
+	<attvalues>
+		<attvalue for="0" value="-1.80506" />
+		<attvalue for="1" value="0.372665" />
+		<attvalue for="2" value="-0.815861" />
+		<attvalue for="3" value="-1.58143" />
+		<attvalue for="4" value="0.502511" />
+	</attvalues>
+	</node>
+	<node id="25" label="25" >
+	<attvalues>
+		<attvalue for="0" value="-0.178018" />
+		<attvalue for="1" value="1.08842" />
+		<attvalue for="2" value="0.50872" />
+		<attvalue for="3" value="0.944595" />
+		<attvalue for="4" value="0.482972" />
+	</attvalues>
+	</node>
+	<node id="26" label="26" >
+	<attvalues>
+		<attvalue for="0" value="-1.38028" />
+		<attvalue for="1" value="0.748288" />
+		<attvalue for="2" value="-1.83072" />
+		<attvalue for="3" value="2.34259" />
+		<attvalue for="4" value="1.37661" />
+	</attvalues>
+	</node>
+	<node id="27" label="27" >
+	<attvalues>
+		<attvalue for="0" value="0.603841" />
+		<attvalue for="1" value="1.08326" />
+		<attvalue for="2" value="-0.322895" />
+		<attvalue for="3" value="1.02052" />
+		<attvalue for="4" value="0.382976" />
+	</attvalues>
+	</node>
+	<node id="28" label="28" >
+	<attvalues>
+		<attvalue for="0" value="1.1659" />
+		<attvalue for="1" value="-0.496422" />
+		<attvalue for="2" value="0.45038" />
+		<attvalue for="3" value="-0.306573" />
+		<attvalue for="4" value="-1.87007" />
+	</attvalues>
+	</node>
+	<node id="29" label="29" >
+	<attvalues>
+		<attvalue for="0" value="1.13968" />
+		<attvalue for="1" value="-0.0984779" />
+		<attvalue for="2" value="-0.956604" />
+		<attvalue for="3" value="0.931153" />
+		<attvalue for="4" value="-0.489337" />
+	</attvalues>
+	</node>
+	<node id="30" label="30" >
+	<attvalues>
+		<attvalue for="0" value="1.0026" />
+		<attvalue for="1" value="-0.223067" />
+		<attvalue for="2" value="1.30498" />
+		<attvalue for="3" value="-0.530333" />
+		<attvalue for="4" value="-0.926055" />
+	</attvalues>
+	</node>
+	<node id="31" label="31" >
+	<attvalues>
+		<attvalue for="0" value="0.361805" />
+		<attvalue for="1" value="0.727082" />
+		<attvalue for="2" value="1.6764" />
+		<attvalue for="3" value="-0.245987" />
+		<attvalue for="4" value="-0.0796569" />
+	</attvalues>
+	</node>
+	<node id="32" label="32" >
+	<attvalues>
+		<attvalue for="0" value="0.894576" />
+		<attvalue for="1" value="-0.547404" />
+		<attvalue for="2" value="-0.897882" />
+		<attvalue for="3" value="-0.683499" />
+		<attvalue for="4" value="1.42861" />
+	</attvalues>
+	</node>
+	<node id="33" label="33" >
+	<attvalues>
+		<attvalue for="0" value="1.72671" />
+		<attvalue for="1" value="0.629123" />
+		<attvalue for="2" value="0.0641955" />
+		<attvalue for="3" value="-0.115851" />
+		<attvalue for="4" value="-0.685352" />
+	</attvalues>
+	</node>
+	<node id="34" label="34" >
+	<attvalues>
+		<attvalue for="0" value="-1.11986" />
+		<attvalue for="1" value="-1.91389" />
+		<attvalue for="2" value="-1.58763" />
+		<attvalue for="3" value="1.14793" />
+		<attvalue for="4" value="0.658188" />
+	</attvalues>
+	</node>
+	<node id="35" label="35" >
+	<attvalues>
+		<attvalue for="0" value="-0.546593" />
+		<attvalue for="1" value="0.937022" />
+		<attvalue for="2" value="0.0557479" />
+		<attvalue for="3" value="-0.394307" />
+		<attvalue for="4" value="0.00812821" />
+	</attvalues>
+	</node>
+	<node id="36" label="36" >
+	<attvalues>
+		<attvalue for="0" value="1.87481" />
+		<attvalue for="1" value="1.36183" />
+		<attvalue for="2" value="-1.17396" />
+		<attvalue for="3" value="-1.79849" />
+		<attvalue for="4" value="0.277948" />
+	</attvalues>
+	</node>
+	<node id="37" label="37" >
+	<attvalues>
+		<attvalue for="0" value="0.720318" />
+		<attvalue for="1" value="-0.52004" />
+		<attvalue for="2" value="0.266632" />
+		<attvalue for="3" value="-1.93741" />
+		<attvalue for="4" value="-1.28707" />
+	</attvalues>
+	</node>
+	<node id="38" label="38" >
+	<attvalues>
+		<attvalue for="0" value="-2.2455" />
+		<attvalue for="1" value="0.0159427" />
+		<attvalue for="2" value="-0.0512189" />
+		<attvalue for="3" value="1.55417" />
+		<attvalue for="4" value="0.607352" />
+	</attvalues>
+	</node>
+	<node id="39" label="39" >
+	<attvalues>
+		<attvalue for="0" value="0.844171" />
+		<attvalue for="1" value="0.524036" />
+		<attvalue for="2" value="0.115035" />
+		<attvalue for="3" value="-2.47403" />
+		<attvalue for="4" value="1.01525" />
+	</attvalues>
+	</node>
+</nodes>
+<edges>
+	<edge id="i0j8" source="0" target="8" />
+	<edge id="i0j17" source="0" target="17" />
+	<edge id="i0j21" source="0" target="21" />
+	<edge id="i0j22" source="0" target="22" />
+	<edge id="i0j26" source="0" target="26" />
+	<edge id="i0j28" source="0" target="28" />
+	<edge id="i0j32" source="0" target="32" />
+	<edge id="i0j33" source="0" target="33" />
+	<edge id="i0j37" source="0" target="37" />
+	<edge id="i0j38" source="0" target="38" />
+	<edge id="i1j25" source="1" target="25" />
+	<edge id="i1j32" source="1" target="32" />
+	<edge id="i1j35" source="1" target="35" />
+</edges>
+</graph>
+</gexf>

@@ -1,0 +1,25 @@
+experiment one
+100 nodes
+20 in generation
+7500 iterations
+3 elites
+10 crossovers
+.1 mutation
+
+8 utilities
+each utility normal distribution 0.0 1.0
+for each utility
+ui1 * uj1 + ui2 * uj2...etc
+
+experiment two
+100 nodes
+20 in generation
+7500 iterations
+3 elites
+10 crossovers
+.1 mutation
+
+8 utilities
+each utility gamma distribution 2.0 1.0
+for each utility
+ui1 * uj1 + ui2 * uj2...etc / #of connections

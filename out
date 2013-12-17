@@ -1,0 +1,8 @@
+In file included from util.cpp:2:
+util.hpp:4: error: 'shared_ptr' is not a member of 'std'
+util.hpp:4: error: 'gene' was not declared in this scope
+util.hpp:4: error: expected primary-expression before ',' token
+util.hpp:4: error: 'shared_ptr' is not a member of 'std'
+util.hpp:4: error: 'gene' was not declared in this scope
+util.hpp:4: error: expected primary-expression before ')' token
+util.hpp:4: error: initializer expression list treated as compound expression

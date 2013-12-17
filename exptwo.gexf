@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.1draft" version="1.1">
+<graph mode="static" defaultedgetype="undirected">
+<attributes class="node">
+	<attribute id="0" title="u0" type="float">
+		<default>0.0</default>
+	</attribute>
+	<attribute id="1" title="u1" type="float">
+		<default>0.0</default>
+	</attribute>
+	<attribute id="2" title="u2" type="float">
+		<default>0.0</default>
+	</attribute>
+	<attribute id="3" title="u3" type="float">
+		<default>0.0</default>
+	</attribute>
+</attributes>
+<nodes>
+	<node id="0" label="0" >
+	<attvalues>
+		<attvalue for="0" value="12.2906" />
+		<attvalue for="1" value="0.960046" />
+		<attvalue for="2" value="1.51882" />
+		<attvalue for="3" value="15.0397" />
+	</attvalues>
+	</node>
+	<node id="1" label="1" >
+	<attvalues>
+		<attvalue for="0" value="3.1481" />
+		<attvalue for="1" value="1.85884" />
+		<attvalue for="2" value="7.78849" />
+		<attvalue for="3" value="12.8275" />
+	</attvalues>
+	</node>
+	<node id="2" label="2" >
+	<attvalues>
+		<attvalue for="0" value="3.93631" />
+		<attvalue for="1" value="2.66974" />
+		<attvalue for="2" value="23.981" />
+		<attvalue for="3" value="20.4691" />
+	</attvalues>
+	</node>
+	<node id="3" label="3" >
+	<attvalues>
+		<attvalue for="0" value="18.1161" />
+		<attvalue for="1" value="9.82045" />
+		<attvalue for="2" value="18.5362" />
+		<attvalue for="3" value="11.2055" />
+	</attvalues>
+	</node>
+	<node id="4" label="4" >
+	<attvalues>
+		<attvalue for="0" value="14.3636" />
+		<attvalue for="1" value="21.5806" />
+		<attvalue for="2" value="7.791" />
+		<attvalue for="3" value="4.69432" />
+	</attvalues>
+	</node>
+	<node id="5" label="5" >
+	<attvalues>
+		<attvalue for="0" value="5.747" />
+		<attvalue for="1" value="21.4982" />
+		<attvalue for="2" value="5.74184" />
+		<attvalue for="3" value="6.07285" />
+	</attvalues>
+	</node>
+	<node id="6" label="6" >
+	<attvalues>
+		<attvalue for="0" value="9.14821" />
+		<attvalue for="1" value="12.7021" />
+		<attvalue for="2" value="2.00511" />
+		<attvalue for="3" value="9.92528" />
+	</attvalues>
+	</node>
+	<node id="7" label="7" >
+	<attvalues>
+		<attvalue for="0" value="12.274" />
+		<attvalue for="1" value="20.7592" />
+		<attvalue for="2" value="14.8579" />
+		<attvalue for="3" value="4.39589" />
+	</attvalues>
+	</node>
+	<node id="8" label="8" >
+	<attvalues>
+		<attvalue for="0" value="5.92657" />
+		<attvalue for="1" value="9.91387" />
+		<attvalue for="2" value="15.6341" />
+		<attvalue for="3" value="3.94869" />
+	</attvalues>
+	</node>
+	<node id="9" label="9" >
+	<attvalues>
+		<attvalue for="0" value="3.14123" />
+		<attvalue for="1" value="14.4851" />
+		<attvalue for="2" value="28.417" />
+		<attvalue for="3" value="7.2456" />
+	</attvalues>
+	</node>
+	<node id="10" label="10" >
+	<attvalues>
+		<attvalue for="0" value="13.8605" />
+		<attvalue for="1" value="3.22455" />
+		<attvalue for="2" value="0.751549" />
+		<attvalue for="3" value="28.6097" />
+	</attvalues>
+	</node>
+	<node id="11" label="11" >
+	<attvalues>
+		<attvalue for="0" value="4.40884" />
+		<attvalue for="1" value="0.597426" />
+		<attvalue for="2" value="5.08762" />
+		<attvalue for="3" value="7.55755" />
+	</attvalues>
+	</node>
+	<node id="12" label="12" >
+	<attvalues>
+		<attvalue for="0" value="6.72416" />
+		<attvalue for="1" value="11.753" />
+		<attvalue for="2" value="16.7113" />
+		<attvalue for="3" value="11.7766" />
+	</attvalues>
+	</node>
+	<node id="13" label="13" >
+	<attvalues>
+		<attvalue for="0" value="6.09399" />
+		<attvalue for="1" value="8.97474" />
+		<attvalue for="2" value="3.788" />
+		<attvalue for="3" value="4.3161" />
+	</attvalues>
+	</node>
+	<node id="14" label="14" >
+	<attvalues>
+		<attvalue for="0" value="22.1042" />
+		<attvalue for="1" value="3.05498" />
+		<attvalue for="2" value="18.9692" />
+		<attvalue for="3" value="3.01413" />
+	</attvalues>
+	</node>
+	<node id="15" label="15" >
+	<attvalues>
+		<attvalue for="0" value="5.73308" />
+		<attvalue for="1" value="12.4662" />
+		<attvalue for="2" value="6.81127" />
+		<attvalue for="3" value="20.7334" />
+	</attvalues>
+	</node>
+	<node id="16" label="16" >
+	<attvalues>
+		<attvalue for="0" value="7.2185" />
+		<attvalue for="1" value="8.0634" />
+		<attvalue for="2" value="11.3071" />
+		<attvalue for="3" value="5.04648" />
+	</attvalues>
+	</node>
+	<node id="17" label="17" >
+	<attvalues>
+		<attvalue for="0" value="1.36013" />
+		<attvalue for="1" value="26.1033" />
+		<attvalue for="2" value="13.8445" />
+		<attvalue for="3" value="2.82831" />
+	</attvalues>
+	</node>
+	<node id="18" label="18" >
+	<attvalues>
+		<attvalue for="0" value="0.836566" />
+		<attvalue for="1" value="15.8434" />
+		<attvalue for="2" value="11.3599" />
+		<attvalue for="3" value="6.32529" />
+	</attvalues>
+	</node>
+	<node id="19" label="19" >
+	<attvalues>
+		<attvalue for="0" value="11.7799" />
+		<attvalue for="1" value="7.27865" />
+		<attvalue for="2" value="8.78657" />
+		<attvalue for="3" value="5.79904" />
+	</attvalues>
+	</node>
+	<node id="20" label="20" >
+	<attvalues>
+		<attvalue for="0" value="3.34355" />
+		<attvalue for="1" value="8.7693" />
+		<attvalue for="2" value="3.93513" />
+		<attvalue for="3" value="5.99352" />
+	</attvalues>
+	</node>
+	<node id="21" label="21" >
+	<attvalues>
+		<attvalue for="0" value="10.8628" />
+		<attvalue for="1" value="15.7887" />
+		<attvalue for="2" value="1.29265" />
+		<attvalue for="3" value="1.36183" />
+	</attvalues>
+	</node>
+	<node id="22" label="22" >
+	<attvalues>
+		<attvalue for="0" value="14.4981" />
+		<attvalue for="1" value="4.06698" />
+		<attvalue for="2" value="3.11956" />
+		<attvalue for="3" value="2.38022" />
+	</attvalues>
+	</node>
+	<node id="23" label="23" >
+	<attvalues>
+		<attvalue for="0" value="10.5084" />
+		<attvalue for="1" value="7.28267" />
+		<attvalue for="2" value="8.52548" />
+		<attvalue for="3" value="4.14699" />
+	</attvalues>
+	</node>
+	<node id="24" label="24" >
+	<attvalues>
+		<attvalue for="0" value="5.04604" />
+		<attvalue for="1" value="10.3365" />
+		<attvalue for="2" value="12.6359" />
+		<attvalue for="3" value="5.02023" />
+	</attvalues>
+	</node>
+	<node id="25" label="25" >
+	<attvalues>
+		<attvalue for="0" value="6.23461" />
+		<attvalue for="1" value="16.5166" />
+		<attvalue for="2" value="4.03015" />
+		<attvalue for="3" value="8.50727" />
+	</attvalues>
+	</node>
+	<node id="26" label="26" >
+	<attvalues>
+		<attvalue for="0" value="2.45687" />
+		<attvalue for="1" value="2.48278" />
+		<attvalue for="2" value="12.8321" />
+		<attvalue for="3" value="9.40657" />
+	</attvalues>
+	</node>
+	<node id="27" label="27" >
+	<attvalues>
+		<attvalue for="0" value="6.72565" />
+		<attvalue for="1" value="7.98783" />
+		<attvalue for="2" value="2.26054" />
+		<attvalue for="3" value="3.23648" />
+	</attvalues>
+	</node>
+	<node id="28" label="28" >
+	<attvalues>
+		<attvalue for="0" value="7.36954" />
+		<attvalue for="1" value="5.46612" />
+		<attvalue for="2" value="14.1274" />
+		<attvalue for="3" value="7.47309" />
+	</attvalues>
+	</node>
+	<node id="29" label="29" >
+	<attvalues>
+		<attvalue for="0" value="2.35508" />
+		<attvalue for="1" value="6.99679" />
+		<attvalue for="2" value="8.29416" />
+		<attvalue for="3" value="7.87664" />
+	</attvalues>
+	</node>
+	<node id="30" label="30" >
+	<attvalues>
+		<attvalue for="0" value="2.10924" />
+		<attvalue for="1" value="4.53941" />
+		<attvalue for="2" value="3.07751" />
+		<attvalue for="3" value="2.74883" />
+	</attvalues>
+	</node>
+	<node id="31" label="31" >
+	<attvalues>
+		<attvalue for="0" value="1.59316" />
+		<attvalue for="1" value="11.2661" />
+		<attvalue for="2" value="6.20302" />
+		<attvalue for="3" value="6.75203" />
+	</attvalues>
+	</node>
+	<node id="32" label="32" >
+	<attvalues>
+		<attvalue for="0" value="9.13338" />
+		<attvalue for="1" value="8.21355" />
+		<attvalue for="2" value="1.50267" />
+		<attvalue for="3" value="9.65225" />
+	</attvalues>
+	</node>
+	<node id="33" label="33" >
+	<attvalues>
+		<attvalue for="0" value="11.5391" />
+		<attvalue for="1" value="6.3337" />
+		<attvalue for="2" value="5.685" />
+		<attvalue for="3" value="16.299" />
+	</attvalues>
+	</node>
+	<node id="34" label="34" >
+	<attvalues>
+		<attvalue for="0" value="0.716432" />
+		<attvalue for="1" value="7.15477" />
+		<attvalue for="2" value="7.99757" />
+		<attvalue for="3" value="2.89513" />
+	</attvalues>
+	</node>
+	<node id="35" label="35" >
+	<attvalues>
+		<attvalue for="0" value="7.1027" />
+		<attvalue for="1" value="7.44533" />
+		<attvalue for="2" value="9.24717" />
+		<attvalue for="3" value="3.93724" />
+	</attvalues>
+	</node>
+	<node id="36" label="36" >
+	<attvalues>
+		<attvalue for="0" value="10.9706" />
+		<attvalue for="1" value="3.48007" />
+		<attvalue for="2" value="12.3221" />
+		<attvalue for="3" value="13.6118" />
+	</attvalues>
+	</node>
+	<node id="37" label="37" >
+	<attvalues>
+		<attvalue for="0" value="8.33691" />
+		<attvalue for="1" value="12.9201" />
+		<attvalue for="2" value="14.6193" />
+		<attvalue for="3" value="2.22723" />
+	</attvalues>
+	</node>
+	<node id="38" label="38" >
+	<attvalues>
+		<attvalue for="0" value="15.8313" />
+		<attvalue for="1" value="1.59279" />
+		<attvalue for="2" value="19.2911" />
+		<attvalue for="3" value="18.1555" />
+	</attvalues>
+	</node>
+	<node id="39" label="39" >
+	<attvalues>
+		<attvalue for="0" value="10.2897" />
+		<attvalue for="1" value="7.07823" />
+		<attvalue for="2" value="12.1603" />
+		<attvalue for="3" value="16.4993" />
+	</attvalues>
+	</node>
+	<node id="40" label="40" >
+	<attvalues>
+		<attvalue for="0" value="21.8569" />
+		<attvalue for="1" value="2.23903" />
+		<attvalue for="2" value="5.08816" />
+		<attvalue for="3" value="4.21966" />
+	</attvalues>
+	</node>
+	<node id="41" label="41" >
+	<attvalues>
+		<attvalue for="0" value="15.0044" />
+		<attvalue for="1" value="16.2882" />
+		<attvalue for="2" value="10.8145" />
+		<attvalue for="3" value="33.8417" />
+	</attvalues>
+	</node>
+	<node id="42" label="42" >
+	<attvalues>
+		<attvalue for="0" value="12.4815" />
+		<attvalue for="1" value="7.2015" />
+		<attvalue for="2" value="2.40266" />
+		<attvalue for="3" value="7.54911" />
+	</attvalues>
+	</node>
+	<node id="43" label="43" >
+	<attvalues>
+		<attvalue for="0" value="6.50609" />
+		<attvalue for="1" value="8.34147" />
+		<attvalue for="2" value="4.42679" />
+		<attvalue for="3" value="5.06459" />
+	</attvalues>
+	</node>
+	<node id="44" label="44" >
+	<attvalues>
+		<attvalue for="0" value="6.46231" />
+		<attvalue for="1" value="17.5656" />
+		<attvalue for="2" value="6.87462" />
+		<attvalue for="3" value="6.42116" />
+	</attvalues>
+	</node>
+	<node id="45" label="45" >
+	<attvalues>
+		<attvalue for="0" value="7.94458" />
+		<attvalue for="1" value="5.51985" />
+		<attvalue for="2" value="4.02954" />
+		<attvalue for="3" value="8.97586" />
+	</attvalues>
+	</node>
+	<node id="46" label="46" >
+	<attvalues>
+		<attvalue for="0" value="5.68998" />
+		<attvalue for="1" value="22.6232" />
+		<attvalue for="2" value="5.23054" />
+		<attvalue for="3" value="6.40565" />
+	</attvalues>
+	</node>
+	<node id="47" label="47" >
+	<attvalues>
+		<attvalue for="0" value="9.99403" />
+		<attvalue for="1" value="16.5599" />
+		<attvalue for="2" value="4.84788" />
+		<attvalue for="3" value="6.84377" />
+	</attvalues>
+	</node>
+	<node id="48" label="48" >
+	<attvalues>
+		<attvalue for="0" value="1.99931" />
+		<attvalue for="1" value="0.210805" />
+		<attvalue for="2" value="8.17894" />
+		<attvalue for="3" value="2.2832" />
+	</attvalues>
+	</node>
+	<node id="49" label="49" >
+	<attvalues>
+		<attvalue for="0" value="9.1648" />
+		<attvalue for="1" value="7.21496" />
+		<attvalue for="2" value="4.485" />
+		<attvalue for="3" value="8.78121" />
+	</attvalues>
+	</node>
+</nodes>
+<edges>
+	<edge id="i0j3" source="0" target="3" />
+	<edge id="i0j10" source="0" target="10" />
+	<edge id="i0j12" source="0" target="12" />
+	<edge id="i0j13" source="0" target="13" />
+	<edge id="i0j16" source="0" target="16" />
+	<edge id="i0j17" source="0" target="17" />
+	<edge id="i0j21" source="0" target="21" />
+	<edge id="i0j26" source="0" target="26" />
+	<edge id="i0j27" source="0" target="27" />
+	<edge id="i0j29" source="0" target="29" />
+	<edge id="i0j31" source="0" target="31" />
+	<edge id="i0j36" source="0" target="36" />
+	<edge id="i0j37" source="0" target="37" />
+	<edge id="i0j43" source="0" target="43" />
+	<edge id="i0j44" source="0" target="44" />
+	<edge id="i0j45" source="0" target="45" />
+	<edge id="i0j46" source="0" target="46" />
+	<edge id="i0j47" source="0" target="47" />
+	<edge id="i0j48" source="0" target="48" />
+	<edge id="i1j2" source="1" target="2" />
+	<edge id="i1j4" source="1" target="4" />
+	<edge id="i1j11" source="1" target="11" />
+	<edge id="i1j14" source="1" target="14" />
+	<edge id="i1j16" source="1" target="16" />
+	<edge id="i1j18" source="1" target="18" />
+	<edge id="i1j20" source="1" target="20" />
+	<edge id="i1j21" source="1" target="21" />
+	<edge id="i1j22" source="1" target="22" />
+	<edge id="i1j23" source="1" target="23" />
+	<edge id="i1j25" source="1" target="25" />
+	<edge id="i1j26" source="1" target="26" />
+	<edge id="i1j29" source="1" target="29" />
+	<edge id="i1j31" source="1" target="31" />
+	<edge id="i1j32" source="1" target="32" />
+	<edge id="i1j33" source="1" target="33" />
+	<edge id="i1j35" source="1" target="35" />
+	<edge id="i1j36" source="1" target="36" />
+	<edge id="i1j37" source="1" target="37" />
+	<edge id="i1j40" source="1" target="40" />
+	<edge id="i1j43" source="1" target="43" />
+	<edge id="i1j45" source="1" target="45" />
+	<edge id="i1j48" source="1" target="48" />
+	<edge id="i1j49" source="1" target="49" />
+	<edge id="i2j3" source="2" target="3" />
+	<edge id="i2j4" source="2" target="4" />
+	<edge id="i2j5" source="2" target="5" />
+	<edge id="i2j8" source="2" target="8" />
+	<edge id="i2j13" source="2" target="13" />
+	<edge id="i2j14" source="2" target="14" />
+	<edge id="i2j17" source="2" target="17" />
+	<edge id="i2j18" source="2" target="18" />
+	<edge id="i2j20" source="2" target="20" />
+	<edge id="i2j22" source="2" target="22" />
+	<edge id="i2j23" source="2" target="23" />
+	<edge id="i2j24" source="2" target="24" />
+	<edge id="i2j25" source="2" target="25" />
+	<edge id="i2j26" source="2" target="26" />
+	<edge id="i2j31" source="2" target="31" />
+	<edge id="i2j33" source="2" target="33" />
+	<edge id="i2j39" source="2" target="39" />
+	<edge id="i2j40" source="2" target="40" />
+	<edge id="i2j42" source="2" target="42" />
+	<edge id="i2j43" source="2" target="43" />
+	<edge id="i2j44" source="2" target="44" />
+	<edge id="i2j46" source="2" target="46" />
+	<edge id="i2j47" source="2" target="47" />
+	<edge id="i2j48" source="2" target="48" />
+	<edge id="i2j49" source="2" target="49" />
+	<edge id="i3j5" source="3" target="5" />
+	<edge id="i3j6" source="3" target="6" />
+	<edge id="i3j7" source="3" target="7" />
+	<edge id="i3j10" source="3" target="10" />
+	<edge id="i3j11" source="3" target="11" />
+	<edge id="i3j13" source="3" target="13" />
+	<edge id="i3j14" source="3" target="14" />
+	<edge id="i3j17" source="3" target="17" />
+	<edge id="i3j18" source="3" target="18" />
+	<edge id="i3j19" source="3" target="19" />
+	<edge id="i3j20" source="3" target="20" />
+	<edge id="i3j21" source="3" target="21" />
+	<edge id="i3j22" source="3" target="22" />
+	<edge id="i3j28" source="3" target="28" />
+	<edge id="i3j30" source="3" target="30" />
+	<edge id="i3j35" source="3" target="35" />
+	<edge id="i3j37" source="3" target="37" />
+	<edge id="i3j39" source="3" target="39" />
+	<edge id="i3j40" source="3" target="40" />
+	<edge id="i3j41" source="3" target="41" />
+	<edge id="i3j42" source="3" target="42" />
+	<edge id="i3j43" source="3" target="43" />
+	<edge id="i3j44" source="3" target="44" />
+	<edge id="i3j46" source="3" target="46" />
+	<edge id="i3j48" source="3" target="48" />
+	<edge id="i3j49" source="3" target="49" />
+	<edge id="i4j5" source="4" target="5" />
+	<edge id="i4j8" source="4" target="8" />
+	<edge id="i4j9" source="4" target="9" />
+	<edge id="i4j12" source="4" target="12" />
+	<edge id="i4j13" source="4" target="13" />
+	<edge id="i4j16" source="4" target="16" />
+	<edge id="i4j18" source="4" target="18" />
+	<edge id="i4j19" source="4" target="19" />
+	<edge id="i4j20" source="4" target="20" />
+	<edge id="i4j21" source="4" target="21" />
+	<edge id="i4j22" source="4" target="22" />
+	<edge id="i4j26" source="4" target="26" />
+	<edge id="i4j28" source="4" target="28" />
+	<edge id="i4j30" source="4" target="30" />
+	<edge id="i4j33" source="4" target="33" />
+	<edge id="i4j34" source="4" target="34" />
+	<edge id="i4j36" source="4" target="36" />
+	<edge id="i4j38" source="4" target="38" />
+	<edge id="i4j41" source="4" target="41" />
+	<edge id="i4j43" source="4" target="43" />
+	<edge id="i4j44" source="4" target="44" />
+	<edge id="i4j45" source="4" target="45" />
+	<edge id="i4j47" source="4" target="47" />
+	<edge id="i4j48" source="4" target="48" />
+	<edge id="i4j49" source="4" target="49" />
+	<edge id="i5j7" source="5" target="7" />
+	<edge id="i5j9" source="5" target="9" />
+	<edge id="i5j11" source="5" target="11" />
+	<edge id="i5j17" source="5" target="17" />
+	<edge id="i5j19" source="5" target="19" />
+	<edge id="i5j21" source="5" target="21" />
+	<edge id="i5j22" source="5" target="22" />
+	<edge id="i5j23" source="5" target="23" />
+	<edge id="i5j25" source="5" target="25" />
+	<edge id="i5j26" source="5" target="26" />
+	<edge id="i5j27" source="5" target="27" />
+	<edge id="i5j28" source="5" target="28" />
+	<edge id="i5j29" source="5" target="29" />
+	<edge id="i5j30" source="5" target="30" />
+	<edge id="i5j31" source="5" target="31" />
+	<edge id="i5j33" source="5" target="33" />
+	<edge id="i5j34" source="5" target="34" />
+	<edge id="i5j35" source="5" target="35" />
+	<edge id="i5j37" source="5" target="37" />
+	<edge id="i5j45" source="5" target="45" />
+	<edge id="i5j47" source="5" target="47" />
+	<edge id="i5j48" source="5" target="48" />
+	<edge id="i6j11" source="6" target="11" />
+	<edge id="i6j12" source="6" target="12" />
+	<edge id="i6j14" source="6" target="14" />
+	<edge id="i6j16" source="6" target="16" />
+	<edge id="i6j17" source="6" target="17" />
+	<edge id="i6j18" source="6" target="18" />
+	<edge id="i6j20" source="6" target="20" />
+	<edge id="i6j21" source="6" target="21" />
+	<edge id="i6j22" source="6" target="22" />
+	<edge id="i6j23" source="6" target="23" />
+	<edge id="i6j27" source="6" target="27" />
+	<edge id="i6j30" source="6" target="30" />
+	<edge id="i6j35" source="6" target="35" />
+	<edge id="i6j37" source="6" target="37" />
+	<edge id="i6j38" source="6" target="38" />
+	<edge id="i6j39" source="6" target="39" />
+	<edge id="i6j40" source="6" target="40" />
+	<edge id="i6j44" source="6" target="44" />
+	<edge id="i6j46" source="6" target="46" />
+	<edge id="i6j48" source="6" target="48" />
+	<edge id="i6j49" source="6" target="49" />
+	<edge id="i7j12" source="7" target="12" />
+	<edge id="i7j13" source="7" target="13" />
+	<edge id="i7j14" source="7" target="14" />
+	<edge id="i7j16" source="7" target="16" />
+	<edge id="i7j17" source="7" target="17" />
+	<edge id="i7j18" source="7" target="18" />
+	<edge id="i7j20" source="7" target="20" />
+	<edge id="i7j22" source="7" target="22" />
+	<edge id="i7j25" source="7" target="25" />
+	<edge id="i7j26" source="7" target="26" />
+	<edge id="i7j28" source="7" target="28" />
+	<edge id="i7j29" source="7" target="29" />
+	<edge id="i7j30" source="7" target="30" />
+	<edge id="i7j32" source="7" target="32" />
+	<edge id="i7j39" source="7" target="39" />
+	<edge id="i7j40" source="7" target="40" />
+	<edge id="i7j41" source="7" target="41" />
+	<edge id="i7j42" source="7" target="42" />
+	<edge id="i7j43" source="7" target="43" />
+	<edge id="i7j44" source="7" target="44" />
+	<edge id="i7j45" source="7" target="45" />
+	<edge id="i7j49" source="7" target="49" />
+	<edge id="i8j11" source="8" target="11" />
+	<edge id="i8j12" source="8" target="12" />
+	<edge id="i8j13" source="8" target="13" />
+	<edge id="i8j14" source="8" target="14" />
+	<edge id="i8j16" source="8" target="16" />
+	<edge id="i8j17" source="8" target="17" />
+	<edge id="i8j18" source="8" target="18" />
+	<edge id="i8j19" source="8" target="19" />
+	<edge id="i8j21" source="8" target="21" />
+	<edge id="i8j26" source="8" target="26" />
+	<edge id="i8j29" source="8" target="29" />
+	<edge id="i8j30" source="8" target="30" />
+	<edge id="i8j31" source="8" target="31" />
+	<edge id="i8j32" source="8" target="32" />
+	<edge id="i8j33" source="8" target="33" />
+	<edge id="i8j34" source="8" target="34" />
+	<edge id="i8j36" source="8" target="36" />
+	<edge id="i8j38" source="8" target="38" />
+	<edge id="i8j42" source="8" target="42" />
+	<edge id="i8j43" source="8" target="43" />
+	<edge id="i8j44" source="8" target="44" />
+	<edge id="i8j46" source="8" target="46" />
+	<edge id="i9j10" source="9" target="10" />
+	<edge id="i9j14" source="9" target="14" />
+	<edge id="i9j16" source="9" target="16" />
+	<edge id="i9j20" source="9" target="20" />
+	<edge id="i9j23" source="9" target="23" />
+	<edge id="i9j24" source="9" target="24" />
+	<edge id="i9j28" source="9" target="28" />
+	<edge id="i9j29" source="9" target="29" />
+	<edge id="i9j30" source="9" target="30" />
+	<edge id="i9j31" source="9" target="31" />
+	<edge id="i9j32" source="9" target="32" />
+	<edge id="i9j34" source="9" target="34" />
+	<edge id="i9j35" source="9" target="35" />
+	<edge id="i9j38" source="9" target="38" />
+	<edge id="i9j42" source="9" target="42" />
+	<edge id="i9j46" source="9" target="46" />
+	<edge id="i9j48" source="9" target="48" />
+	<edge id="i10j13" source="10" target="13" />
+	<edge id="i10j17" source="10" target="17" />
+	<edge id="i10j18" source="10" target="18" />
+	<edge id="i10j19" source="10" target="19" />
+	<edge id="i10j20" source="10" target="20" />
+	<edge id="i10j21" source="10" target="21" />
+	<edge id="i10j23" source="10" target="23" />
+	<edge id="i10j24" source="10" target="24" />
+	<edge id="i10j26" source="10" target="26" />
+	<edge id="i10j27" source="10" target="27" />
+	<edge id="i10j28" source="10" target="28" />
+	<edge id="i10j29" source="10" target="29" />
+	<edge id="i10j30" source="10" target="30" />
+	<edge id="i10j34" source="10" target="34" />
+	<edge id="i10j35" source="10" target="35" />
+	<edge id="i10j36" source="10" target="36" />
+	<edge id="i10j40" source="10" target="40" />
+	<edge id="i10j41" source="10" target="41" />
+	<edge id="i10j42" source="10" target="42" />
+	<edge id="i10j44" source="10" target="44" />
+	<edge id="i10j45" source="10" target="45" />
+	<edge id="i10j47" source="10" target="47" />
+	<edge id="i11j16" source="11" target="16" />
+	<edge id="i11j17" source="11" target="17" />
+	<edge id="i11j19" source="11" target="19" />
+	<edge id="i11j21" source="11" target="21" />
+	<edge id="i11j22" source="11" target="22" />
+	<edge id="i11j23" source="11" target="23" />
+	<edge id="i11j24" source="11" target="24" />
+	<edge id="i11j26" source="11" target="26" />
+	<edge id="i11j27" source="11" target="27" />
+	<edge id="i11j28" source="11" target="28" />
+	<edge id="i11j32" source="11" target="32" />
+	<edge id="i11j34" source="11" target="34" />
+	<edge id="i11j37" source="11" target="37" />
+	<edge id="i11j45" source="11" target="45" />
+	<edge id="i11j46" source="11" target="46" />
+	<edge id="i11j49" source="11" target="49" />
+	<edge id="i12j13" source="12" target="13" />
+	<edge id="i12j16" source="12" target="16" />
+	<edge id="i12j18" source="12" target="18" />
+	<edge id="i12j20" source="12" target="20" />
+	<edge id="i12j22" source="12" target="22" />
+	<edge id="i12j24" source="12" target="24" />
+	<edge id="i12j26" source="12" target="26" />
+	<edge id="i12j27" source="12" target="27" />
+	<edge id="i12j28" source="12" target="28" />
+	<edge id="i12j29" source="12" target="29" />
+	<edge id="i12j34" source="12" target="34" />
+	<edge id="i12j35" source="12" target="35" />
+	<edge id="i12j39" source="12" target="39" />
+	<edge id="i12j42" source="12" target="42" />
+	<edge id="i12j45" source="12" target="45" />
+	<edge id="i12j48" source="12" target="48" />
+	<edge id="i12j49" source="12" target="49" />
+	<edge id="i13j14" source="13" target="14" />
+	<edge id="i13j16" source="13" target="16" />
+	<edge id="i13j17" source="13" target="17" />
+	<edge id="i13j18" source="13" target="18" />
+	<edge id="i13j19" source="13" target="19" />
+	<edge id="i13j24" source="13" target="24" />
+	<edge id="i13j25" source="13" target="25" />
+	<edge id="i13j26" source="13" target="26" />
+	<edge id="i13j27" source="13" target="27" />
+	<edge id="i13j34" source="13" target="34" />
+	<edge id="i13j37" source="13" target="37" />
+	<edge id="i13j39" source="13" target="39" />
+	<edge id="i13j42" source="13" target="42" />
+	<edge id="i13j44" source="13" target="44" />
+	<edge id="i14j16" source="14" target="16" />
+	<edge id="i14j17" source="14" target="17" />
+	<edge id="i14j18" source="14" target="18" />
+	<edge id="i14j19" source="14" target="19" />
+	<edge id="i14j21" source="14" target="21" />
+	<edge id="i14j27" source="14" target="27" />
+	<edge id="i14j28" source="14" target="28" />
+	<edge id="i14j29" source="14" target="29" />
+	<edge id="i14j30" source="14" target="30" />
+	<edge id="i14j34" source="14" target="34" />
+	<edge id="i14j37" source="14" target="37" />
+	<edge id="i14j38" source="14" target="38" />
+	<edge id="i14j41" source="14" target="41" />
+	<edge id="i14j49" source="14" target="49" />
+	<edge id="i15j41" source="15" target="41" />
+	<edge id="i16j17" source="16" target="17" />
+	<edge id="i16j18" source="16" target="18" />
+	<edge id="i16j20" source="16" target="20" />
+	<edge id="i16j21" source="16" target="21" />
+	<edge id="i16j22" source="16" target="22" />
+	<edge id="i16j27" source="16" target="27" />
+	<edge id="i16j28" source="16" target="28" />
+	<edge id="i16j30" source="16" target="30" />
+	<edge id="i16j31" source="16" target="31" />
+	<edge id="i16j32" source="16" target="32" />
+	<edge id="i16j37" source="16" target="37" />
+	<edge id="i16j38" source="16" target="38" />
+	<edge id="i16j45" source="16" target="45" />
+	<edge id="i16j47" source="16" target="47" />
+	<edge id="i16j49" source="16" target="49" />
+	<edge id="i17j18" source="17" target="18" />
+	<edge id="i17j21" source="17" target="21" />
+	<edge id="i17j27" source="17" target="27" />
+	<edge id="i17j30" source="17" target="30" />
+	<edge id="i17j31" source="17" target="31" />
+	<edge id="i17j33" source="17" target="33" />
+	<edge id="i17j37" source="17" target="37" />
+	<edge id="i17j39" source="17" target="39" />
+	<edge id="i17j40" source="17" target="40" />
+	<edge id="i17j43" source="17" target="43" />
+	<edge id="i17j47" source="17" target="47" />
+	<edge id="i17j48" source="17" target="48" />
+	<edge id="i17j49" source="17" target="49" />
+	<edge id="i18j20" source="18" target="20" />
+	<edge id="i18j22" source="18" target="22" />
+	<edge id="i18j24" source="18" target="24" />
+	<edge id="i18j26" source="18" target="26" />
+	<edge id="i18j30" source="18" target="30" />
+	<edge id="i18j31" source="18" target="31" />
+	<edge id="i18j32" source="18" target="32" />
+	<edge id="i18j34" source="18" target="34" />
+	<edge id="i18j35" source="18" target="35" />
+	<edge id="i18j40" source="18" target="40" />
+	<edge id="i19j20" source="19" target="20" />
+	<edge id="i19j22" source="19" target="22" />
+	<edge id="i19j23" source="19" target="23" />
+	<edge id="i19j24" source="19" target="24" />
+	<edge id="i19j25" source="19" target="25" />
+	<edge id="i19j26" source="19" target="26" />
+	<edge id="i19j27" source="19" target="27" />
+	<edge id="i19j28" source="19" target="28" />
+	<edge id="i19j30" source="19" target="30" />
+	<edge id="i19j33" source="19" target="33" />
+	<edge id="i19j40" source="19" target="40" />
+	<edge id="i19j41" source="19" target="41" />
+	<edge id="i19j42" source="19" target="42" />
+	<edge id="i19j44" source="19" target="44" />
+	<edge id="i19j47" source="19" target="47" />
+	<edge id="i19j48" source="19" target="48" />
+	<edge id="i20j22" source="20" target="22" />
+	<edge id="i20j24" source="20" target="24" />
+	<edge id="i20j28" source="20" target="28" />
+	<edge id="i20j30" source="20" target="30" />
+	<edge id="i20j35" source="20" target="35" />
+	<edge id="i20j36" source="20" target="36" />
+	<edge id="i20j37" source="20" target="37" />
+	<edge id="i20j40" source="20" target="40" />
+	<edge id="i20j41" source="20" target="41" />
+	<edge id="i20j43" source="20" target="43" />
+	<edge id="i20j44" source="20" target="44" />
+	<edge id="i20j47" source="20" target="47" />
+	<edge id="i20j48" source="20" target="48" />
+	<edge id="i20j49" source="20" target="49" />
+	<edge id="i21j22" source="21" target="22" />
+	<edge id="i21j26" source="21" target="26" />
+	<edge id="i21j28" source="21" target="28" />
+	<edge id="i21j30" source="21" target="30" />
+	<edge id="i21j31" source="21" target="31" />
+	<edge id="i21j32" source="21" target="32" />
+	<edge id="i21j33" source="21" target="33" />
+	<edge id="i21j34" source="21" target="34" />
+	<edge id="i21j35" source="21" target="35" />
+	<edge id="i21j38" source="21" target="38" />
+	<edge id="i21j42" source="21" target="42" />
+	<edge id="i21j43" source="21" target="43" />
+	<edge id="i21j44" source="21" target="44" />
+	<edge id="i21j48" source="21" target="48" />
+	<edge id="i22j23" source="22" target="23" />
+	<edge id="i22j25" source="22" target="25" />
+	<edge id="i22j28" source="22" target="28" />
+	<edge id="i22j29" source="22" target="29" />
+	<edge id="i22j30" source="22" target="30" />
+	<edge id="i22j32" source="22" target="32" />
+	<edge id="i22j33" source="22" target="33" />
+	<edge id="i22j36" source="22" target="36" />
+	<edge id="i22j39" source="22" target="39" />
+	<edge id="i22j40" source="22" target="40" />
+	<edge id="i22j42" source="22" target="42" />
+	<edge id="i22j44" source="22" target="44" />
+	<edge id="i22j49" source="22" target="49" />
+	<edge id="i23j24" source="23" target="24" />
+	<edge id="i23j25" source="23" target="25" />
+	<edge id="i23j26" source="23" target="26" />
+	<edge id="i23j28" source="23" target="28" />
+	<edge id="i23j29" source="23" target="29" />
+	<edge id="i23j30" source="23" target="30" />
+	<edge id="i23j33" source="23" target="33" />
+	<edge id="i23j36" source="23" target="36" />
+	<edge id="i23j43" source="23" target="43" />
+	<edge id="i24j37" source="24" target="37" />
+	<edge id="i24j38" source="24" target="38" />
+	<edge id="i24j46" source="24" target="46" />
+	<edge id="i24j47" source="24" target="47" />
+	<edge id="i25j26" source="25" target="26" />
+	<edge id="i25j28" source="25" target="28" />
+	<edge id="i25j30" source="25" target="30" />
+	<edge id="i25j38" source="25" target="38" />
+	<edge id="i26j27" source="26" target="27" />
+	<edge id="i26j29" source="26" target="29" />
+	<edge id="i26j30" source="26" target="30" />
+	<edge id="i26j31" source="26" target="31" />
+	<edge id="i26j35" source="26" target="35" />
+	<edge id="i26j38" source="26" target="38" />
+	<edge id="i26j40" source="26" target="40" />
+	<edge id="i26j41" source="26" target="41" />
+	<edge id="i26j46" source="26" target="46" />
+	<edge id="i26j49" source="26" target="49" />
+	<edge id="i27j29" source="27" target="29" />
+	<edge id="i27j31" source="27" target="31" />
+	<edge id="i27j38" source="27" target="38" />
+	<edge id="i27j45" source="27" target="45" />
+	<edge id="i28j35" source="28" target="35" />
+	<edge id="i28j39" source="28" target="39" />
+	<edge id="i28j41" source="28" target="41" />
+	<edge id="i28j43" source="28" target="43" />
+	<edge id="i28j48" source="28" target="48" />
+	<edge id="i28j49" source="28" target="49" />
+	<edge id="i29j33" source="29" target="33" />
+	<edge id="i29j38" source="29" target="38" />
+	<edge id="i29j40" source="29" target="40" />
+	<edge id="i29j43" source="29" target="43" />
+	<edge id="i29j47" source="29" target="47" />
+	<edge id="i29j49" source="29" target="49" />
+	<edge id="i30j34" source="30" target="34" />
+	<edge id="i30j36" source="30" target="36" />
+	<edge id="i30j37" source="30" target="37" />
+	<edge id="i30j38" source="30" target="38" />
+	<edge id="i30j39" source="30" target="39" />
+	<edge id="i30j40" source="30" target="40" />
+	<edge id="i30j41" source="30" target="41" />
+	<edge id="i30j45" source="30" target="45" />
+	<edge id="i30j48" source="30" target="48" />
+	<edge id="i30j49" source="30" target="49" />
+	<edge id="i31j35" source="31" target="35" />
+	<edge id="i31j38" source="31" target="38" />
+	<edge id="i31j41" source="31" target="41" />
+	<edge id="i31j45" source="31" target="45" />
+	<edge id="i31j46" source="31" target="46" />
+	<edge id="i32j34" source="32" target="34" />
+	<edge id="i32j37" source="32" target="37" />
+	<edge id="i32j38" source="32" target="38" />
+	<edge id="i32j42" source="32" target="42" />
+	<edge id="i32j45" source="32" target="45" />
+	<edge id="i32j46" source="32" target="46" />
+	<edge id="i32j47" source="32" target="47" />
+	<edge id="i32j48" source="32" target="48" />
+	<edge id="i32j49" source="32" target="49" />
+	<edge id="i33j37" source="33" target="37" />
+	<edge id="i33j39" source="33" target="39" />
+	<edge id="i33j40" source="33" target="40" />
+	<edge id="i33j41" source="33" target="41" />
+	<edge id="i33j43" source="33" target="43" />
+	<edge id="i33j45" source="33" target="45" />
+	<edge id="i33j47" source="33" target="47" />
+	<edge id="i33j49" source="33" target="49" />
+	<edge id="i34j38" source="34" target="38" />
+	<edge id="i34j41" source="34" target="41" />
+	<edge id="i34j42" source="34" target="42" />
+	<edge id="i34j43" source="34" target="43" />
+	<edge id="i34j44" source="34" target="44" />
+	<edge id="i34j45" source="34" target="45" />
+	<edge id="i34j48" source="34" target="48" />
+	<edge id="i34j49" source="34" target="49" />
+	<edge id="i35j36" source="35" target="36" />
+	<edge id="i35j38" source="35" target="38" />
+	<edge id="i35j40" source="35" target="40" />
+	<edge id="i35j41" source="35" target="41" />
+	<edge id="i35j44" source="35" target="44" />
+	<edge id="i35j45" source="35" target="45" />
+	<edge id="i35j46" source="35" target="46" />
+	<edge id="i35j47" source="35" target="47" />
+	<edge id="i35j49" source="35" target="49" />
+	<edge id="i36j42" source="36" target="42" />
+	<edge id="i36j45" source="36" target="45" />
+	<edge id="i36j47" source="36" target="47" />
+	<edge id="i37j38" source="37" target="38" />
+	<edge id="i37j39" source="37" target="39" />
+	<edge id="i37j40" source="37" target="40" />
+	<edge id="i37j41" source="37" target="41" />
+	<edge id="i37j44" source="37" target="44" />
+	<edge id="i37j45" source="37" target="45" />
+	<edge id="i37j48" source="37" target="48" />
+	<edge id="i38j41" source="38" target="41" />
+	<edge id="i38j44" source="38" target="44" />
+	<edge id="i38j45" source="38" target="45" />
+	<edge id="i38j47" source="38" target="47" />
+	<edge id="i38j48" source="38" target="48" />
+	<edge id="i38j49" source="38" target="49" />
+	<edge id="i39j41" source="39" target="41" />
+	<edge id="i40j48" source="40" target="48" />
+	<edge id="i44j48" source="44" target="48" />
+</edges>
+</graph>
+</gexf>
